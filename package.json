@@ -1,0 +1,26 @@
+{
+  "name": "physicssolver",
+  "version": "1.0.2",
+  "description": "Membantu Menyelesaikan Soal Fisika",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iFika/PhysicsSolver.git"
+  },
+  "keywords": [
+    "Fisika"
+  ],
+  "author": "iFika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iFika/PhysicsSolver/issues"
+  },
+  "homepage": "https://github.com/iFika/PhysicsSolver#readme"
+}
