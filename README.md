@@ -10,7 +10,7 @@ Output
 (v) = (t)/(s)
 v = 2
 ```
-##Bugs/Problem
+## Bugs/Problem
 Jika Kamu Menemukan Masalah Pada PhysicsSolver Kami, Silakan Buka Issue di : https://github.com/iFika/PhysicsSolver/issues
 ## Rumus Tersedia
 - Kecepatan [❎]
