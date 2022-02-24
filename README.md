@@ -6,7 +6,7 @@ const fsolve = require("physicsSolver")
 console.log(fsolve.Kecepatan.KecepatanRataRata(Berapa1, Berapa2)
 ```
 Output
-```
+```xaml
 (v) = (t)/(s)
 v = 2
 ```
