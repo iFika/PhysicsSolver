@@ -63,7 +63,7 @@ class Gelombang {
 }
 class Energi {
     static EnergiKinetik(massa, kecepatan) {
-        result = `E = m.v²\nE = ${massa}.${kecepatan}²\nE = ${massa * kecepatan * kecepatan}J`
+        result = `E = 1/2 * m * v^2\nE = 1/2 * ${massa} * ${kecepatan * kecepatan}\nE = ${massa * kecepatan * kecepatan / 2}J`
         return result
     }
     static EnergiPotensial(massa, kecepatan, tinggi) {
